@@ -1,0 +1,14 @@
+Files
+train.csv - the training data
+sample_submission.csv - a sample submission file in the correct format
+train.zip - training images
+test.zip - test images
+Columns
+image_id - the unique image ID
+width, height - the width and height of the images
+bbox - a bounding box, formatted as a Python-style list of [xmin, ymin, width, height]
+etc.
+
+link for downloading dataset:
+
+kaggle competitions download -c global-wheat-detection
